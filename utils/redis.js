@@ -1,3 +1,4 @@
+/* eslint-disable no-new */
 import { createClient } from 'redis';
 class RedisClient {
     constructor() {
